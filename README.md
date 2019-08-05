@@ -1,4 +1,4 @@
-# bnj_dance
+# bnj_dances
  
 _Hello! I developed this dancing system similar to the one found in the After Hours DLC. Created from scratch, using NativeUI and native Animations_
  
@@ -8,7 +8,7 @@ _NativeUI is required for this to function_
  
 ```
 start NativeUI
-start bnj_dance
+start bnj_dances
 ```
  
 ### Keybinds 🔧
