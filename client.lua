@@ -757,5 +757,3 @@ function limpiarAnimacion(jugador)
   ClearPedTasks(jugador)
   ClearPedSecondaryTask(jugador)
 end
-
-
