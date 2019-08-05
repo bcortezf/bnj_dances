@@ -1,48 +1,47 @@
 # bnj_dance
-
-_Hola! He desarrollado este sistema de bailes similiar al que existe en el DLC de After Hours. Fue creado desde 0, usando el menu de NativeUI_
-
-### Cómo Iniciar 📋
-
-_Se requiere NativeUI para que funcione_
-
+ 
+_Hello! I developed this dancing system similar to the one found in the After Hours DLC. Created from scratch, using NativeUI_
+ 
+### How to start 📋
+ 
+_NativeUI is required for this to function_
+ 
 ```
 start NativeUI
 start bnj_dance
 ```
-
-### Controles 🔧
-
-
+ 
+### Keybinds 🔧
+ 
+ 
 ```
-** F10 ** : Abrir / Cerrar Menú
-** SHIFT ** : Cambiar Tipo de Baile (Hombre y mujer tienen 2 bailes distintos)
-** E ** : Subir Intensidad
-** Q ** : Bajar Intensidad
-** FLECHAS DERECHA E IZQUIERDA ** : Mover brazos en esa dirección
-** X ** : Detener baile / animación
+** F10 ** : Open / Close Menu
+** SHIFT ** : Change dancing style (Men and women have two different dances)
+** E ** : Increase Intensity
+** Q ** : Decrease Intensity
+** LEFT AND RIGHT ARROWS ** : Move arms in that direction
+** X ** : Stop dancing / animation
 ```
-
-## Créditos 🛠️
-
-_Agradecimientos a estas personas_
-
-* [Benjannabis](http://github.com/Benjannabis) - Código del programa
-* [Guadmaz](http://github.com/Guad) - Por desarrollar NativeUI
-* [Netholinus](http://steamcommunity.com/id/Netholinus/) - Quien me ayudó a testear y resolver algunos bugs!
-
-## Contribuyendo 🖇️
-
-Si quieres editar el codigo y agregar mas cosas, envíame un pull request. De esa manera el código de desarrolla entre todos
-
-## Bugs y Errores 🚀
-
-_Si algo no te funciona, o tienes algun bug, no dudes en hacermelo saber._
-
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia GNU GPLv3 - mira el archivo [LICENSE.md](LICENSE.md) para detalles
-
+ 
+## Acknowledgments 🛠️
+ 
+_Special thanks to:_
+ 
+* [Benjannabis](http://github.com/Benjannabis) - Code for the plugin
+* [Guadmaz](http://github.com/Guad) - For developing NativeUI
+* [Netholinus](http://steamcommunity.com/id/Netholinus/) - Who helped me test and fix some bugs
+ 
+## Contribute 🖇️
+ 
+If you want to edit the code and add more things, send a pull request. Any help is welcome.  
+ 
+## Bugs and errors 🚀
+ 
+_If something is not working, or you find a bug, do let me know._
+ 
+ 
+## Licensing 📄
+ 
+This project is licensed under GNU GPLv3 - check [LICENSE.md](LICENSE.md) for more details.
+ 
 ---
-
