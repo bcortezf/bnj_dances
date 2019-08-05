@@ -15,12 +15,12 @@ start bnj_dance
  
  
 ```
-** F10 ** : Open / Close Menu
-** SHIFT ** : Change dancing style (Men and women have two different dances)
-** E ** : Increase Intensity
-** Q ** : Decrease Intensity
-** LEFT AND RIGHT ARROWS ** : Move arms in that direction
-** X ** : Stop dancing / animation
+**F10** : Open / Close Menu
+**SHIFT** : Change dancing style (Men and women have two different dances)
+**E** : Increase Intensity
+**Q** : Decrease Intensity
+**LEFT AND RIGHT ARROWS** : Move arms in that direction
+**X** : Stop dancing / animation
 ```
  
 ## Acknowledgments 🛠️
