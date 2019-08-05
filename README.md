@@ -1,6 +1,6 @@
 # bnj_dance
  
-_Hello! I developed this dancing system similar to the one found in the After Hours DLC. Created from scratch, using NativeUI_
+_Hello! I developed this dancing system similar to the one found in the After Hours DLC. Created from scratch, using NativeUI and native Animations_
  
 ### How to start 📋
  
@@ -13,15 +13,14 @@ start bnj_dance
  
 ### Keybinds 🔧
  
- 
-```
-F10 : Open / Close Menu
-SHIFT : Change dancing style (Men and women have two different dances)
-E : Increase Intensity
-Q : Decrease Intensity
-LEFT AND RIGHT ARROWS : Move arms in that direction
-X : Stop dancing / animation
-```
+
+__F10__ : Open / Close Menu
+__SHIFT__ : Change dancing style (Men and women have two different dances)
+__E__ : Increase Intensity
+__Q__ : Decrease Intensity
+__LEFT AND RIGHT ARROWS__ : Move arms in that direction
+__X__ : Stop dancing / animation
+
  
 ## Acknowledgments 🛠️
  
