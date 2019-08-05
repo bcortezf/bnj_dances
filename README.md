@@ -16,7 +16,7 @@ start bnj_dances
 
 __F10__ : Open / Close Menu
 
-__SHIFT__ : Change dancing style (Men and women have two different dances)
+__SHIFT__ : Change dancing style (Men and women have two different dances each)
 
 __E__ : Increase Intensity
 
