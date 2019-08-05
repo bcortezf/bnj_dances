@@ -11,7 +11,7 @@ start NativeUI
 start bnj_dances
 ```
  
-### Keybinds 🔧
+# Keybinds 🔧
  
 
 __F10__ : Open / Close Menu
