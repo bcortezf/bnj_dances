@@ -1,11 +1,12 @@
 # bnj_dances
  
-_Hello! I developed this dancing system similar to the one found in the After Hours DLC. Created from scratch, using NativeUI and native Animations_
+_Hello! I developed this FiveM dancing script similar to the one found in the After Hours DLC. Created from scratch, using NativeUI and native Animations._
  
 ### How to start 📋
  
 _NativeUI is required for this to function_
- 
+
+Add this to your server.cfg
 ```
 start NativeUI
 start bnj_dances
