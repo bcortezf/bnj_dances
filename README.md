@@ -33,7 +33,7 @@ __X__ : Stop dancing / animation
  
 _Special thanks to:_
  
-* [Benjannabis](http://github.com/Benjannabis) - Code for the plugin
+* [Benjannabis](http://github.com/bcortezf) - Code for the plugin
 * [Guadmaz](http://github.com/Guad) - For developing NativeUI
 * [Netholinus](http://steamcommunity.com/id/Netholinus/) - Who helped me test and fix some bugs
  
