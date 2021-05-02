@@ -28,6 +28,7 @@ __LEFT AND RIGHT ARROWS__ : Move arms in that direction
 
 __X__ : Stop dancing / animation
 
+__ALT__:  Alternate between being able to walk while dancing, and dancing with your entire body (without moving)
 
  
 ## Acknowledgments 🛠️
