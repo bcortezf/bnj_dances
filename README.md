@@ -24,7 +24,7 @@ __E__ : Increase Intensity
 
 __Q__ : Decrease Intensity
 
-__LEFT AND RIGHT ARROWS__ : Move arms in that direction
+__ARROWS__ : You can use LEFT/RIGHT/UP/DOWN arrows in order to move arms in that direction
 
 __X__ : Stop dancing / animation
 
